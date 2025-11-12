@@ -22,7 +22,6 @@ rustscan -a 10.10.10.84 --ulimit 1000 -r 1-65535 -- -A -sC -Pn
 ### **Web Enumeration**
 
 Mengakses `http://10.10.10.84/listfiles.php` menemukan directory listing yang menampilkan beberapa file PHP dan `pwdbackup.txt`
-![[Pasted image 20251112215653.png]]
 
 ## **Akses Awal**
 
