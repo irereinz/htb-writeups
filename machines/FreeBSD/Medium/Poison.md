@@ -66,7 +66,6 @@ Mengkonfirmasi kerentanan Local File Inclusion
 http://10.10.10.84/browse.php?file=/etc/passwd
 ```
 Menemukan user `charix` di `/etc/passwd`
-![[Pasted image 20251112224017.png]]
 ## **Akses User**
 
 ### **Login SSH**
